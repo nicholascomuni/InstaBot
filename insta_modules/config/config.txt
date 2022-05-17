@@ -1,0 +1,19 @@
+---------- GENERAL -----------
+likes_per_hour_limit = 150
+likes_per_day_limit = 900
+follows_per_hour_limit = 20
+follows_per_day_limit = 100
+schedule_step = datetime.timedelta(minutes=2)
+
+----------- LEAD -------------
+gender = Female
+min_followers = 150
+max_followers = 5000
+min_following = 150
+max_following = 5000
+min_ff_ratio = 0.5
+max_ff_ratio = 5
+min_posts = 8
+max_posts = 10000
+min_comments_mean = 0
+private = Both
